@@ -1,0 +1,7 @@
+[libraries]
+argument-parser-clikt = { module = "com.github.ajalt.clikt:clikt", version.ref = "argument-parser-clikt-version" }
+org-ini4j = { module = "org.ini4j:ini4j", version.ref = "org-ini4j-version" }
+
+[versions]
+argument-parser-clikt-version = "3.5.0"
+org-ini4j-version = "0.5.4"
